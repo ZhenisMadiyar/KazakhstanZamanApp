@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">SimpleListChoice</string>
+
+    <string-array name="names">
+        <item>Sport</item>
+        <item>World</item>
+        <item>Barcelona</item>
+        <item>RealMadrid</item>
+        <item>Study</item>
+        <item>Kazakhstan</item>
+        <item>Android</item>
+        <item>Information</item>
+        <item>Languages</item>
+        <item>Cars</item>
+        <item>LigaChampions</item>
+        <item>LigaBBVA</item>
+        <item>SDC</item>
+    </string-array>
+
+</resources>

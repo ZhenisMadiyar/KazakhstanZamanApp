@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListViewHorizontal</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+<array name="images">
+    <item>@drawable/icons</item>
+    <item>@drawable/sec</item>
+    <item>@drawable/third</item>
+    <item>@drawable/icons</item>
+    <item>@drawable/sec</item>
+    <item>@drawable/third</item>
+    <item>@drawable/icons</item>
+    <item>@drawable/sec</item>
+    <item>@drawable/third</item>
+    <item>@drawable/third</item>
+</array>
+</resources>
